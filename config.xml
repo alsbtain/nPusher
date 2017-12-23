@@ -10,6 +10,8 @@
     <content src="index.html" />
     <access origin="*" />
     <icon src="icon.png" />
+	<preference name="fullscreen" value="false" />
+	<preference name="ios-statusbarstyle" value="black-opaque" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/36.png" />
         <icon density="mdpi" src="www/res/icon/android/48.png" />
